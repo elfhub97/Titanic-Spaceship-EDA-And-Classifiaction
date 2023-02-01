@@ -13,4 +13,4 @@ Source: Kaggle
 
 ## Objective
 1.To analys Missing Data update  them with Pseudo data and perform EDA\
-2.To Predict passengers transported to different dimension with classifiaction algorithm
+2.To Predict passengers transported to different dimension with classifiaction algorithms and Deep learning
